@@ -9,4 +9,3 @@ def using_until
     puts "Wingardium Leviosa x10"
   end
 end
-using_until
